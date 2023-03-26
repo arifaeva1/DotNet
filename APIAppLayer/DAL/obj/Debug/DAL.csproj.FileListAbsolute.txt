@@ -1,0 +1,14 @@
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\bin\Debug\DAL.dll.config
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\bin\Debug\DAL.dll
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\bin\Debug\DAL.pdb
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\bin\Debug\EntityFramework.dll
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\bin\Debug\EntityFramework.xml
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\obj\Debug\DAL.dll
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\obj\Debug\DAL.pdb
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\obj\Debug\DAL.Migrations.InitDB.resources
+F:\semister\10th semister\advance .net\final\APIAppLayer\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

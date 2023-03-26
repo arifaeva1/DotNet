@@ -1,0 +1,12 @@
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\bin\Debug\BLL.dll
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\bin\Debug\BLL.pdb
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\bin\Debug\DAL.dll
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\bin\Debug\EntityFramework.dll
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\bin\Debug\DAL.pdb
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\bin\Debug\DAL.dll.config
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\bin\Debug\EntityFramework.xml
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\obj\Debug\BLL.dll
+F:\semister\10th semister\advance .net\final\APIAppLayer\BLL\obj\Debug\BLL.pdb
